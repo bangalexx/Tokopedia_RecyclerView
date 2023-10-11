@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tokopedia RecyclerView</string>
+    <string name="text_menu">Menu</string>
+    <string name="text_dana">Saldo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
